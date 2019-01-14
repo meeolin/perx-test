@@ -1,0 +1,14 @@
+@import '~vuetify/dist/vuetify.min.css';
+
+body {
+  font-family: -apple-system, 'Montserrat', 'Roboto', sans-serif;
+}
+
+.success {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
+.error {
+  background-color: #ff5252!important;
+  border-color: #ff5252!important;
+}
